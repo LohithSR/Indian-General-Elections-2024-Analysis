@@ -36,7 +36,7 @@ By utilizing structured queries and database relationships, this project provide
 | File Name                                      | Description                                       |
 |----------------------------------------------|-------------------------------------------------|
 | `Copy of Purple and White Professional Science Project Presentation.pdf` | Project overview, results, and insights. |
-| `election_analysis_queries.sql`              | SQL queries used for the election analysis.     |
+| `datasets/`                                   | Folder containing election datasets.            |
 | `README.md`                                  | This document describing the project.           |
 
 ---
