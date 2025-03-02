@@ -30,16 +30,6 @@ By utilizing structured queries and database relationships, this project provide
 ✅ **ETL & Data Analysis** - Processing election data efficiently.
 ✅ **Power BI (Optional)** - For potential visual representations.
 
----
-
-## 📂 Project Files
-| File Name                                      | Description                                       |
-|----------------------------------------------|-------------------------------------------------|
-| `Copy of Purple and White Professional Science Project Presentation.pdf` | Project overview, results, and insights. |
-| `datasets/`                                   | Folder containing election datasets.            |
-| `README.md`                                  | This document describing the project.           |
-
----
 
 ## 🔍 SQL Queries Overview
 
